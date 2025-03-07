@@ -1,0 +1,175 @@
+{
+    "sections": [
+      {
+        "title": "Core Concepts",
+        "subsections": [
+          {
+            "title": "Machine Learning",
+            "topics": [
+              "Supervised Learning",
+              "Unsupervised Learning",
+              "Reinforcement Learning",
+              "Transfer Learning",
+              "Self-Supervised Learning",
+              "Model Evaluation Metrics"
+            ]
+          },
+          {
+            "title": "Neural Networks",
+            "topics": [
+              "Deep Learning",
+              "Convolutional Neural Networks (CNNs)",
+              "Recurrent Neural Networks (RNNs)",
+              "Generative Models (e.g., GANs, VAEs)",
+              "Architectures and Innovations"
+            ]
+          },
+          {
+            "title": "Implementation Guides",
+            "topics": [
+              "Tutorials and How-Tos",
+              "Model Optimization and Deployment"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Natural Language Processing (NLP)",
+        "topics": [
+          "Text Analysis",
+          "Sentiment Analysis",
+          "Machine Translation",
+          "NLP Libraries and Tools",
+          "Use Cases and Case Studies",
+          "Speech Recognition",
+          "Text Generation",
+          "Question Answering Systems"
+        ]
+      },
+      {
+        "title": "Computer Vision",
+        "topics": [
+          "Image Recognition",
+          "Object Detection",
+          "Facial Recognition",
+          "Image Segmentation",
+          "Video Analysis",
+          "3D Computer Vision",
+          "Toolkits and Frameworks"
+        ]
+      },
+      {
+        "title": "Robotics",
+        "topics": [
+          "Autonomous Robots",
+          "Robot Control Systems",
+          "Robotics in Industry",
+          "Human-Robot Interaction",
+          "Robotics Simulation"
+        ]
+      },
+      {
+        "title": "Expert Systems",
+        "topics": [
+          "Rule-Based Systems",
+          "Decision Support Systems",
+          "Expert System Applications",
+          "Development and Design",
+          "Fuzzy Logic Systems"
+        ]
+      },
+      {
+        "title": "Case Studies and Applications",
+        "topics": [
+          "Industry-Specific AI Applications (e.g., healthcare, finance, transportation)",
+          "Ethics and AI Governance",
+          "AI in Edge Computing"
+        ]
+      },
+      {
+        "title": "AI Governance and Law",
+        "subsections": [
+          {
+            "title": "Foundations of AI Governance",
+            "topics": [
+              "Understanding AI systems as socio-technical systems",
+              "Cross-disciplinary collaboration (including UX, sociology, anthropology)",
+              "Use of frameworks like the OECD for AI classification and governance",
+              "The role of AI in society: risks and benefits (recognition, personalization, optimization)"
+            ]
+          },
+          {
+            "title": "Responsible AI and Risk Management",
+            "topics": [
+              "Principles of Trustworthy AI: Human-centric, Safe, secure, and resilient, Transparent and explainable, Privacy-enhanced, Fair and non-discriminatory",
+              "Managing AI Risks: Identifying individual and societal risks (e.g., civil rights, economic opportunity, reputation), Mitigating algorithmic bias, ensuring fairness and accountability, Auditing and continuous monitoring of AI systems"
+            ]
+          },
+          {
+            "title": "AI Laws and Compliance",
+            "topics": [
+              "Global AI Laws: EU AI Act: Classification (prohibited, high-risk, limited risk, low risk), Canada's Bill C-27 (Artificial Intelligence and Data Act), US State AI Laws, China’s Generative AI Regulations",
+              "GDPR and AI Intersection: Automated decision-making and transparency, Data protection impact assessments (DPIA) and conformity assessments, Individual rights (meaningful information on AI decisions)"
+            ]
+          },
+          {
+            "title": "Emerging AI Governance Frameworks",
+            "topics": [
+              "ISO 31000:2018 Risk Management Guidelines",
+              "NIST AI Risk Management Framework",
+              "Council of Europe Human Rights Framework for AI",
+              "Singapore Model AI Governance Framework",
+              "IEEE 7000-21 Ethical AI Design"
+            ]
+          },
+          {
+            "title": "AI Development Life Cycle Governance",
+            "topics": [
+              "Planning: Align AI projects with business objectives, governance structures, and risk assessments",
+              "Design: Data strategy (gathering, cleansing, applying PETs like differential privacy)",
+              "Development: Model training, testing, and validation with a focus on fairness, privacy, and safety",
+              "Implementation: Deployment, monitoring, and maintenance of AI systems, ensuring post-launch compliance"
+            ]
+          },
+          {
+            "title": "Ongoing Legal and Ethical Issues",
+            "topics": [
+              "AI Liability: Understanding tort liability, developer vs. user responsibility",
+              "Intellectual Property (IP): Addressing challenges with AI model and data licensing",
+              "User Education: Ensuring transparency in AI capabilities, upskilling the workforce",
+              "Audit and Accountability: Building a global profession for AI auditors, enhancing accountability in sensitive AI applications"
+            ]
+          },
+          {
+            "title": "Example Organizations in AI Governance",
+            "subsections": [
+              {
+                "title": "International Organizations",
+                "topics": [
+                  "OECD: Provides AI governance frameworks",
+                  "European Union (EU): Implements the EU AI Act",
+                  "United Nations Educational, Scientific and Cultural Organization (UNESCO): Promotes ethical AI guidelines",
+                  "Council of Europe: Works on human rights-based AI frameworks"
+                ]
+              },
+              {
+                "title": "National Initiatives",
+                "topics": [
+                  "White House Office of Science and Technology Policy: AI Bill of Rights in the USA",
+                  "Canada: Bill C-27 (Artificial Intelligence and Data Act)",
+                  "Cyberspace Administration of China: Generative AI regulations"
+                ]
+              },
+              {
+                "title": "Standards Bodies",
+                "topics": [
+                  "IEEE: Developing ethical AI standards (e.g., IEEE 7000)",
+                  "ISO: Risk management and safety standards (e.g., ISO 31000)"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+  "sections": [
+    {
+      "title": "Introduction to AI",
+      "topics": ["History of AI", "Applications of AI"]
+    },
+    {
+      "title": "Machine Learning",
+      "subsections": [
+        {
+          "title": "Supervised Learning",
+          "topics": ["Regression", "Classification"]
+        },
+        {
+          "title": "Unsupervised Learning",
+          "topics": ["Clustering", "Dimensionality Reduction"]
+        }
+      ]
+    }
+  ]
+}
